@@ -1,0 +1,12 @@
+#PokemonQuiz{
+    display: none;
+};
+
+.row{
+    padding: 50px;
+    margin: 10px;
+}
+
+#countdown{
+    font-size: 20px;
+}
